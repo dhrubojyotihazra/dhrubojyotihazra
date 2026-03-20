@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Dhrubojyoti%20Hazra&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=Data%20Science%20%7C%20Generative%20AI%20%7C%20Data%20Analysis%20%26%20Engineering&descColor=8b949e&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Dhrubojyoti%20Hazra&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20Gen%20AI%20%7C%20Data%20Engineering&descColor=8b949e&descAlignY=60&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=BTech+CSE+(Data+Science)+%40+Brainware+University+%7C+CGPA+9.0;Building+ML+Pipelines%2C+RAG+Architectures+%26+AI+Products;Data+Analytics+Trainee+%40+Euphoria+GenX%2C+Kolkata;Turning+raw+data+into+real+decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
