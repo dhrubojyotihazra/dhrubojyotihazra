@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00d2ff,40:7b2ff7,80:f953c6,100:ff6b6b&height=230&section=header&text=Dhrubojyoti%20Hazra&fontSize=52&fontColor=ffffff&fontAlignY=55&fontAlign=70&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descColor=f0f0ff&descAlignY=75&descAlign=70&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,40:7b2ff7,80:f953c6,100:ff6b6b&height=230&section=header&text=Dhrubojyoti%20Hazra&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descColor=f0f0ff&descAlignY=58&animation=fadeIn" />
 
 </div>
 
@@ -206,26 +206,50 @@
 
 ## 💼 Experience
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="4" style="background: linear-gradient(180deg, #00d2ff, #7b2ff7, #f953c6); border-radius: 4px;">&nbsp;</td>
+<td width="96%" valign="top" style="padding-left: 16px;">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🏢  Data Analytics Trainee  ·  Euphoria GenX, Kolkata       ║
-║      Jan 2026 – Present                                       ║
-║                                                               ║
-║  → Building data pipelines & Power BI dashboards             ║
-║  → Deriving actionable insights from complex datasets         ║
-║  → Structured data workflows & business intelligence          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+**🏢 Data Analytics Trainee** &nbsp;·&nbsp; Euphoria GenX, Kolkata &nbsp;·&nbsp; ![Duration](https://img.shields.io/badge/Jan_2026_–_Present-7b2ff7?style=flat-square&logoColor=white)
 
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Building end-to-end **data pipelines** and interactive **Power BI** dashboards<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Deriving actionable insights from complex, large-scale datasets<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Structured **data workflows** and business intelligence implementation
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="4" style="background: linear-gradient(180deg, #7b2ff7, #f953c6); border-radius: 4px;">&nbsp;</td>
+<td width="96%" valign="top" style="padding-left: 16px;">
+
+**📊 Data Analytics & Visualization Simulations** &nbsp;·&nbsp; Forage &nbsp;·&nbsp; ![Duration](https://img.shields.io/badge/Aug_2025-f953c6?style=flat-square&logoColor=white)
+
+&nbsp;&nbsp;&nbsp;&nbsp;▸ **Deloitte Australia** Data Analytics Job Simulation — real-world data problem solving<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ **TATA Data Visualization** program — stakeholder-ready insight dashboards
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="4" style="background: linear-gradient(180deg, #f953c6, #ff6b6b); border-radius: 4px;">&nbsp;</td>
+<td width="96%" valign="top" style="padding-left: 16px;">
+
+**💻 Software Development Trainee** &nbsp;·&nbsp; Samsung Innovation Campus &nbsp;·&nbsp; ![Duration](https://img.shields.io/badge/Oct_2025-ff6b6b?style=flat-square&logoColor=white)
+
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Intensive training in **coding, algorithms** & industry-standard problem solving<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Real-world coding exercises under Samsung & ESSCI guidance
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff6b6b,40:f953c6,80:7b2ff7,100:00d2ff&height=140&section=footer&fontAlign=30&animation=fadeIn&rotate=180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,40:f953c6,80:7b2ff7,100:00d2ff&height=140&section=footer&animation=fadeIn"/>
 
 **When I'm not looking at data →** exploring streetwear drops · deep in anime & game lore · geeking over cars & bikes 🚗🏍️
 
