@@ -16,7 +16,7 @@ dhrubojyoti = {
     "location"   : "Kolkata, West Bengal 🇮🇳",
     "education"  : "BTech CSE (Data Science) · Brainware University · 3rd Year · CGPA: 9.0",
     "focus"      : ["Data Science", "Data Engineering", "Gen AI", "Data Analysis"],
-    "currently"  : "Data Analytics Trainee @ Euphoria GenX | Building OpinionIQ",
+    "currently"  : "Data Analytics Trainee @ Euphoria GenX | Building Aprovify",
     "seeking"    : "Data Analytics / Data Science Internship",
     "fun_fact"   : "When I'm not looking at data, I'm probably exploring streetwear drops or deep into anime and game lore and absolutely geeking over cars and bikes 🚗🏍️",
 }
